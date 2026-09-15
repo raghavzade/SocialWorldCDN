@@ -1,6 +1,8 @@
 {
   "country": "United States",
   "countryCode": "US",
+  "currency": "USD",
+  "currencySymbol": "$",
   "source_note": "CarSelect USA starter location catalog. Includes all 50 states + District of Columbia and a broad set of major cities; it is not a claim of every Census place.",
   "states": [
     {
