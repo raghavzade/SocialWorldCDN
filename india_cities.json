@@ -1,6 +1,8 @@
 {
   "country": "India",
   "countryCode": "IN",
+  "currency": "INR",
+  "currencySymbol": "₹",
   "states": [
     {
       "name": "Maharashtra",
