@@ -1,7 +1,6 @@
 {
   "country": "India",
   "countryCode": "IN",
-  "source_note": "CarSelect India location catalog. Original supplied cities are preserved; additional major urban centers were added where they were absent from the supplied catalog.",
   "states": [
     {
       "name": "Maharashtra",
